@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi, I'm Nikhil 👋
+<h3>
+  I am a software developer, creator, and life-long learner!
+  Check out more about me <a href='https://nikumar1206.github.io/personal-website/'>here</a>
+ </h3>
+  
 <!--
 **nikumar1206/nikumar1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
