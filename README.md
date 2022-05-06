@@ -7,14 +7,7 @@
  
 <a href = "">![](https://komarev.com/ghpvc/?username=nikumar1206&color=blueviolet)</a><br>
 <a href = "">![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)</a> 
+<a href = "">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikumar1206&theme=dracula)](https://github.com/nikumar1206/github-readme-stats)
 
 </div> <br>
-<!-- <h5 align='center'>Technologies I use:</h5>
- -->
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikumar1206&theme=dracula)](https://github.com/nikumar1206/github-readme-stats)
-
-  
-</div>
 
