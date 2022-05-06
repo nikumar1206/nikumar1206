@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>
+  ![](https://komarev.com/ghpvc/?username=nikumar1206&color=blueviolet) 
+  <br>
+  ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)
+ </center>
+Technologies I use:
+
+
+<img width="123" alt="Screen Shot 2022-05-06 at 9 45 55 AM" src="https://user-images.githubusercontent.com/96546721/167145476-ea8b65de-7c0e-4292-9512-3b9dc43a552c.png">
+
