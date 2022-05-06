@@ -1,7 +1,7 @@
 ### Hi, I'm Nikhil 👋
 <h3>
   I am a software developer, creator, and life-long learner!
-  Check out more about me <a href='https://nikumar1206.github.io/personal-website/'>here</a>
+  Check out more about me <a href='https://nikumar1206.github.io/personal-website/'>here</a>!
  </h3>
   
 <!--
@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
-  ![](https://komarev.com/ghpvc/?username=nikumar1206&color=blueviolet) 
-  <br>
-  ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)
- </center>
+![](https://komarev.com/ghpvc/?username=nikumar1206&color=blueviolet) <br>
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)
 Technologies I use:
 
 
