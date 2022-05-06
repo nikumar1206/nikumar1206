@@ -9,7 +9,7 @@
 <a href = "">![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)</a> 
 
 </div> <br>
-<h5 align='center'Technologies I use</h5>:
+<h5 align='center'>Technologies I use:</h5>
 
 
 <img width="123" alt="Screen Shot 2022-05-06 at 9 45 55 AM" src="https://user-images.githubusercontent.com/96546721/167145476-ea8b65de-7c0e-4292-9512-3b9dc43a552c.png">
