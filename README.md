@@ -5,7 +5,7 @@
  </h3>
 <div align="center">
  
-<a href = "">![](https://komarev.com/ghpvc/?username=nikumar1206&color=blueviolet)</a>
+<a href = "">![](https://komarev.com/ghpvc/?username=nikumar1206&color=blueviolet)</a><br>
 <a href = "">![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)</a> 
 
 </div> <br>
