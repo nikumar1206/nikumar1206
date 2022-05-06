@@ -1,5 +1,5 @@
-### Hi, I'm Nikhil 👋
-<h3>
+<h1 align='center' Hi, I'm Nikhil 👋 </h1>
+<h3 align='center' >
   I am a software developer, creator, and life-long learner!
   Check out more about me <a href='https://nikumar1206.github.io/personal-website/'>here</a>!
  </h3>
@@ -9,7 +9,7 @@
 <a href = "">![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)</a> 
 
 </div> <br>
-Technologies I use:
+<h5 align='center'Technologies I use</h5>:
 
 
 <img width="123" alt="Screen Shot 2022-05-06 at 9 45 55 AM" src="https://user-images.githubusercontent.com/96546721/167145476-ea8b65de-7c0e-4292-9512-3b9dc43a552c.png">
