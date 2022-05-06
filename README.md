@@ -1,4 +1,4 @@
-<h1 align='center'> Hi, I'm Nikhil 👋 </h1>
+<h2 align='center'> Hi, I'm Nikhil 👋 </h2>
 <h3 align='center' >
   I am a software developer, creator, and life-long learner!
   Check out more about me <a href='https://nikumar1206.github.io/personal-website/'>here</a>!
