@@ -19,7 +19,6 @@
 
 <a href = "">![Nikhil's GitHub stats](https://komarev.com/ghpvc/?username=nikumar1206&label=Profile%20views&color=ff79c6&style=for-the-badge)</a>
 <br>
-<a href = "">![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=true&theme=dracula)</a>
-<br>
-<a href = "">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikumar1206&theme=dracula)](https://github.com/nikumar1206/github-readme-stats)
+<p align="center"> <img alt="Stats" width="410px" src="https://github-readme-stats.vercel.app/api?username=nikumar1206&show_icons=false&theme=dracula" />  
+  <img alt="Top Langs" width="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikumar1206&layout=compact&theme=dracula" /> </p>
 </div>
