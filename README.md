@@ -4,7 +4,7 @@
 </h3>
 <h2>👨‍💻 About Me</h2>
 <ul>
-    <li>I'm a software engineer based in NYC (favorite language: JavaScript)!</li>
+    <li>I'm a software engineer based in NYC (favorite language: TypeScript)!</li>
     <li>I enjoy lifting at the gym and cooking nutritious meals.</li>
     <li>Fun Fact: I presented my biochemistry research at the National Conference of Undergraduate Research!</li>
 </ul>
